@@ -10,8 +10,8 @@ from subscription import SubscriptionManager
 from config import Config
 from datetime import datetime
 
-TOKEN = "YOUR_BOT_TOKEN"
-OWNER_ID = 123456789  # Replace with your Telegram ID
+TOKEN = "6018373368:AAGLe40GPm7wB3faqiLY3JZ5pm6pHP7FhHs"
+OWNER_ID = 1369230585  # Replace with your Telegram ID
 
 db = Database()
 config = Config(db, OWNER_ID)
